@@ -1,0 +1,23 @@
+
+
+$orange : "#F2A74B";
+$textLight: "#eaf2f4";
+$textDark : "#0D0D0D";
+$borderLight : "rgba(206,212,218, .993)";
+
+
+.main{
+  background-color: $orange;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: flex;
+  padding-left: flex;
+  text-decoration: text;
+  border: $borderLight;
+
+ }
+ .inputs{
+   border: $borderLight;
+   padding-left: 5px;
+   align-self: justify;
+ }
